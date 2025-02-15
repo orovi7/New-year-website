@@ -189,6 +189,91 @@ html, body{
 }
 
 
+/* Holiday section start from here */
+.holiday-sale{
+    height: 800px;
+    width: 80%;
+    margin: 100px 0 0 10%;
+    /* background-color: blue; */
+}
+.holiday-sale1{
+    height: 150px;
+    width: 100%;
+    /* background-color: yellow; */
+}
+
+.p-sec-holiday{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.h1-sec-holiday{
+    text-align: center;
+    font-size: 50px;
+}
+.red-holiday-h1{
+   color: #FF0000;
+}
+
+.second-p-holiday{
+    text-align: center;
+    margin: 5px 300px 0 300px;
+}
+
+/* holiday second part start from here */
+.holiday-sale2{
+    height: 600px;
+    width: 100%;
+    /* background-color: rgb(98, 255, 0); */
+    margin-top: 50px;
+}
+
+.all-container{
+    position: relative;
+}
+.three-contain{
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    z-index: 2;
+}
+.girl-discount-contain{
+    position: relative;
+    margin-bottom: 0;
+}
+.box-pic{
+    height: 600px;
+     /* margin: 0 380px 0 0; */
+}
+    
+ 
+
+.box-contain{
+    /* bottom: -20%; */
+    z-index: 1;
+}
+
+.girl-pic{
+    /* height: 350px; */
+   
+}
+/* .dis-pic{
+    height: 250px;
+} */
+.dis-pic{
+    position: absolute;
+      top: 10%;
+      left: -40%;
+}
+.red-rec-contain{
+    position: absolute;
+    bottom: -42px;
+    /* z-index: 1; */
+}
+.red-rec-pic{
+    width: 100%;
+}
+
+/* Holiday section ends from here */
 
 .portfolio{
     height: 500px;
